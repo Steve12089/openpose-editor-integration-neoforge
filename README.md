@@ -1,4 +1,5 @@
 # openpose-editor-integration-neoforge
+本项目已基本完善，且已有分支解决了大部分问题，故暂时没有更新计划
 在github.com/Haoming02/sd-webui-forge-classic的控制网上增加了openpose骨骼图编辑按钮
 
 本项目由AI生成,但大概率没有什么严重的bug
